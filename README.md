@@ -5,4 +5,5 @@
 
 This project uses the following third-party template/resource:
 
-- https://bootstrapmade.com/demo/Personal/
+-  Theme URL: https://bootstrapmade.com/demo/Personal/
+-  Author URL: https://bootstrapmade.com
