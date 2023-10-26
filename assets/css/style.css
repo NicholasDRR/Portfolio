@@ -970,7 +970,7 @@ section .container {
 }
 
 .contact .info-box .social-links a {
-  font-size: 18px;
+  font-size: 20px;
   display: inline-block;
   color: #fff;
   line-height: 1;
@@ -978,8 +978,8 @@ section .container {
   transition: 0.3s;
 }
 
-.contact .info-box .social-links a:hover {
-  color: #18d26e;
+#linkedinimg{
+  margin-top: 2.3px;
 }
 
 .contact .php-email-form {
