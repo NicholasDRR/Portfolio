@@ -378,14 +378,27 @@ section .container {
 }
 
 .section-title h2 {
-  font-size: 14px;
+  font-size: 17px;
   font-weight: 500;
   padding: 0;
   line-height: 1px;
   margin: 0 0 20px 0;
   letter-spacing: 2px;
   text-transform: uppercase;
-  color: #aaaaaa;
+  color: white;
+  font-family: "Poppins", sans-serif;
+}
+
+.row-title {
+  font-size: 14px;
+  font-weight: bold;
+  padding: 0;
+  margin-top: 30px;
+  margin-left: 13px;
+  line-height: 1px;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  color: white;
   font-family: "Poppins", sans-serif;
 }
 
