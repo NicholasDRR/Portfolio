@@ -344,6 +344,12 @@ h6 {
 /*--------------------------------------------------------------
 # Sections General
 --------------------------------------------------------------*/
+
+#titulo-habilidade {
+  font-weight: bold;
+}
+
+
 section {
   overflow: hidden;
   position: absolute;
